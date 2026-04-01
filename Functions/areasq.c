@@ -10,6 +10,6 @@ int main()
 {
     float result;
     result=area();
-    printf("Area of square=%f",result);
+    printf("Area of square=%f\n",result);
     return 0;
 }
